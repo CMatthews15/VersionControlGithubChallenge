@@ -10,4 +10,7 @@
 
 
 3.  What are the steps to fork a GitHub repository?
+    A fork is pulling someones code into your own files for use.
+    You'll need to create a fork, clone and pull to your code.
+    After making your changes, you'll commit and push the code to your repository.
 
